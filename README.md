@@ -1,17 +1,29 @@
 # jawab-arkademy
 cara menjalankan aplikasi 1-5:
+
 -install xampp
+
 -setting directory htdocs
+
 -jalankan xampp (apache dan mysql)
+
 -buka browser klik link http://localhost/"nomer".php
 
+
 cara menjalankan aplikasi 6:
+
 -jalankan xampp (apache dan mysql)
+
 -pindahkan folder 6 ke htdocs
+
 -setting koneksi mysql ke php
+
 -buka browser klik http://localhost/phpmyadmin
+
 -impor database arkademy.sql yang ada di folder 6
+
 -buka browser klik link http://localhost/6/index.php
+
 -capture demo aplikasi ada di folder 6/capture
 
 soal no 1) REST itu kependakan dari REpresentational State Transfer yang merupakan standar arsitektur berbasis web yang menggunakan protokol HTTP untuk berkomunikasi data.
