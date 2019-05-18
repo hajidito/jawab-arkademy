@@ -12,6 +12,7 @@ cara menjalankan aplikasi 6:
 -buka browser klik http://localhost/phpmyadmin
 -impor database arkademy.sql yang ada di folder 6
 -buka browser klik link http://localhost/6/index.php
+-capture demo aplikasi ada di folder 6/capture
 
 soal no 1) REST itu kependakan dari REpresentational State Transfer yang merupakan standar arsitektur berbasis web yang menggunakan protokol HTTP untuk berkomunikasi data.
 
